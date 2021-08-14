@@ -1,0 +1,7 @@
+export const END_LOADING = 'END_LOADING';
+export const START_LOADING = 'START_LOADING';
+export const FETCH_IMAGES= 'FETCH_IMAGES';
+export const FETCH_CATEGORIES='FETCH_CATEGORIES'
+export const FETCH_NAME='FETCH_NAME'
+export const FETCH_ALL_CATS= 'FETCH_ALL_CATS'
+export const MORE_CATS='MORE_CATS'

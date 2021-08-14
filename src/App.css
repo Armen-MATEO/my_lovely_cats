@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,33 @@
   to {
     transform: rotate(360deg);
   }
+} */
+ .btn {
+  height: 50px;
+  width: -webkit-fill-available;
+  cursor: pointer;
+  background-color: aqua;
+  font-size: large;
+  text-decoration: blanchedalmond;
+ }
+ .btn:hover {
+  
+    background-color: #4CAF50;
+    color: white;
+  
+ }
+
+ 
+ .sidebtn {
+   font-size: large;
+  width: 100px;
+  height: 30px;
+  border: ridge;
+  cursor: pointer;
+  background-color: darkkhaki;
 }
+.sidebtn:hover {
+  background-color: #4CAF50;
+  color: white;
+}
+ 
